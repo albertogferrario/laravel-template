@@ -46,7 +46,7 @@ return [
             'local_domain' => env('MAIL_EHLO_DOMAIN'),
         ],
 
-        'mailtrap' => [
+        'mailtrap-sdk' => [
             'transport' => 'mailtrap-sdk',
         ],
 
